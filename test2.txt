@@ -1,1 +1,3 @@
 adding a python  code sample 
+
+Doing Testing on fetch pull commads 
